@@ -20,15 +20,17 @@ And,it’s not just the food that is being wasted. The resources such as water, 
 
 ## Solution
 
-While food is being wasted in Production, Processing and Distribution, this idea looks to solve the food wastage issue at the consumer level which is the largest source of wastage and at the end of food chain.
+Food is being wasted in all stages of a Food Supply Cycle -  Production, Processing and Distribution, Retail and Consumer Usage. 
 
--> Provide data to shop wisely at grocery stores
+Let's see how we can reduce Food Wastage at stage:
 
--> IoT: Pantry/Refrigerator – RFID – use of technology to track inventory of perishable and non-perishable food supply, including quantity and expiry dates
+-> Help Consumers Shop Wisely at Grocery Store 
 
--> Use Data Science to generate recipes based on available ingredients 
+-> Pantry/Refrigerator Alert : RFID – use of technology to track inventory of perishable and non-perishable food supply, including quantity and expiry dates and provide alerts 
 
--> Create neural network for collection of food from consumers using real time data
+-> Suggest recipes for Consumers based on available ingredients 
+
+-> Create neural network for collection of food from consumers, retailers, producers and distributors using real time data
 
 -> Collect, correlate and publish real time data to help consumers donate to food banks and hunger relief in time
 
