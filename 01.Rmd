@@ -18,7 +18,7 @@ And,it’s not just the food that is being wasted. The resources such as water, 
 
 *** Add Images and charts showing Food Wastage **
 
-## A middle.
+## Solution
 
 While food is being wasted in Production, Processing and Distribution, this idea looks to solve the food wastage issue at the consumer level which is the largest source of wastage and at the end of food chain.
 
