@@ -28,14 +28,15 @@ While it is evident that food is being wasted in all stages of a Food Supply cyc
 3.  When an item nears expiry, it provides an alert 
 
 #### Recipes you may want…
-4.	Using Machine learning technique, provide personalized suggestion of recipes taking into account ingredients available and about to expire, your cuisine preferences, allergies etc.
+4.	 Using Machine learning technique, provide personalized suggestion of recipes taking into account ingredients available and about to expire, your cuisine preferences, allergies etc.
 
 #### Items you may want to buy…
-5.	Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
+5.	 Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
 
 #### Donations you may want to make…
-6.       Create neural network for collection of food from consumers and restaurants to facilitate donation to food banks  
--> Compost food scrap – Promote organic farming by using Data to study yield of home gardens fed with homemade compost.
+6.  Create neural network for collection of food from consumers and restaurants to facilitate donation to food banks
+
+7.  Compost food scrap – Promote organic farming by using Data to study yield of home gardens fed with homemade compost.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
