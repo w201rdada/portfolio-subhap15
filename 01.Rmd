@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-WaNo WaNo
+ioT, food wastage, donation, recipe
 
 ## Problem
 
@@ -20,23 +20,22 @@ And,it’s not just the food that is being wasted. The resources such as water, 
 
 ## Solution
 
-Food is being wasted in all stages of a Food Supply Cycle -  Production, Processing and Distribution, Retail and Consumer Usage. 
+While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers and Restaurants as the end-client in mind. 
 
-Let's see how we can reduce Food Wastage at stage:
+Items expiring soon…
+1.  Pantry image is scanned using 3D camera to digitally map the entire pantry, including shelves, height of shelves, depth and width. On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / labels) an item. Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: A parallel MLT will scan  FDA and EEMA sites for safety and recall information to alert customer. 
+2.  Items can be placed on the ioT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. 3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator. 
+3.  When an item nears expiry, it provides an alert 
 
--> Help Consumers Shop Wisely at Grocery Store 
+Recipes you may want…
+4.	Using Machine learning technique, provide personalized suggestion of recipes taking into account ingredients available and about to expire, your cuisine preferences, allergies etc.
 
--> Pantry/Refrigerator Alert : RFID – use of technology to track inventory of perishable and non-perishable food supply, including quantity and expiry dates and provide alerts 
+Items you may want to buy…
+5.	Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
 
--> Suggest recipes for Consumers based on available ingredients 
-
--> Create neural network for collection of food from consumers, retailers, producers and distributors using real time data
-
--> Collect, correlate and publish real time data to help consumers donate to food banks and hunger relief in time
-
--> Compost food scrap – Promote organic farming by using Data to study yield of home gardens fed with homemade compost. 
-
-** Expand each one next week **
+Donations you may want to make…
+6.       Create neural network for collection of food from consumers and restaurants to facilitate donation to food banks  
+-> Compost food scrap – Promote organic farming by using Data to study yield of home gardens fed with homemade compost.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
