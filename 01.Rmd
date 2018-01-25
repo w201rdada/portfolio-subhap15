@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-ioT, food wastage, donation, recipe
+IoT, food wastage, donation, recipe
 
 ## Problem
 
@@ -23,8 +23,8 @@ And,it’s not just the food that is being wasted. The resources such as water, 
 While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers and Restaurants as the end-client in mind. 
 
 #### Items expiring soon…
-1.  Pantry image is scanned using 3D camera to digitally map the entire pantry, including shelves, height of shelves, depth and width. On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / labels) an item. Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: A parallel MLT will scan  FDA and EEMA sites for safety and recall information to alert customer. 
-2.  Items can be placed on the ioT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. 3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator. 
+1.  Pantry image is scanned using 3D camera to digitally map the entire pantry, including shelves, height of shelves, depth and width. On the Pantry/Refrigerator door, install an IoT device to scan, register and watermark (through simple color coding / labels) an item. Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: A parallel MLT will scan  FDA and EEMA sites for safety and recall information to alert customer. 
+2.  Items can be placed on the IoT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. 3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator. 
 3.  When an item nears expiry, it provides an alert 
 
 #### Recipes you may want…
