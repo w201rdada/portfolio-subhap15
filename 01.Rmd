@@ -6,9 +6,9 @@ IoT, food wastage, donation, recipe
 
 ## Problem
 
-1. Are we using all the groceries we buy? Have you ever thrown food from Refrigerator or Pantry that are past the expiry date because you did not realize they were just sitting there? 
-2. Have we ever thought about the effect of food wastage on environment? How do we reduce the greenhouse gas emissions from Landfills that process food wastage?
-3. How can we help the millions suffering in hunger? Can we make a social impact by eliminating wastage and helping feed every living human with a minimum one meal a day?  
+1.  Are we using all the groceries we buy? Have you ever thrown food from Refrigerator or Pantry that are past the expiry date because you did not realize they were just sitting there? 
+2.  Have we ever thought about the effect of food wastage on environment? How do we reduce the greenhouse gas emissions from Landfills that process food wastage?
+3.  How can we help the millions suffering in hunger? Can we make a social impact by eliminating wastage and helping feed every living human with a minimum one meal a day?  
 
 One answer resonates with all the questions above, ‘eliminate food wastage’. While the problem may sound as truism and stating the obvious, I believe Data Science can be used as a medium to help not just answer these questions but provide adaptable solutions.
 
@@ -23,9 +23,12 @@ And,it’s not just the food that is being wasted. The resources such as water, 
 While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers and Restaurants as the end-client in mind. 
 
 #### Items expiring soon…
-1.  Pantry image is scanned using 3D camera to digitally map the entire pantry, including shelves, height of shelves, depth and width. On the Pantry/Refrigerator door, install an IoT device to scan, register and watermark (through simple color coding / labels) an item. Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: A parallel MLT will scan  FDA and EEMA sites for safety and recall information to alert customer. 
-2.  Items can be placed on the IoT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. 3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator. 
-3.  When an item nears expiry, it provides an alert 
+1.	 Capture Pantry images using a 3D camera and digitally map the entire pantry, including shelves, height of shelves, depth and width.
+2.	 On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / labels) an item.
+3.	 Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: In parallel, we can use Machine learning technique to scan FDA and EEMA sites for safety and recall information to alert customer.
+4.	 Items need to be placed on the IoT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. *3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator.*
+5.	 When an item nears expiry, send an alert to the consumer (in their registered phone)
+
 
 #### Recipes you may want…
 4.	 Using Machine learning technique, provide personalized suggestion of recipes taking into account ingredients available and about to expire, your cuisine preferences, allergies etc.
@@ -34,10 +37,14 @@ While it is evident that food is being wasted in all stages of a Food Supply cyc
 5.	 Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
 
 #### Donations you may want to make…
-6.  Create neural network for collection of food from consumers and restaurants to facilitate donation to food banks
+6.  The next step in reducing food wastage is to recover excess food from restaurants and facilitate donation to food banks.  This can be achieved by creating a neural network for a given zone containing - restaurants, food banks and businesses in the food delivery such as Uber Eats, Door Dash etc. We will maintain real-time data regarding where food is needed, quantity needed, which restaurants have excess, by when food need to be used, when delivery can be made at the earliest etc. This tool will take over the logistics aspect of the connecting Demand (organizations willing to accept donation) with Supply (Restaurants interested in donating) analyzing various parameters including but not limited to location, availability (food), max storage time (fresh/frozen), numbers of individuals needing donation, their allergy information, proximity of delivery service and selecting the closest location matching the parameters.
 
-7.  Compost food scrap – Promote organic farming by using Data to study yield of home gardens fed with homemade compost.
+This idea made me wonder, can restaurants get sued for the food and grocery products we donate with good intentions that turn out bad? Upon researching further, I have found few federal laws such as Bill Emerson Good Samaritan Food Donation Act that encourage food donation by providing a liability protection to donors as long as they do not act with negligence or intentional misconduct.  The donors also get tax incentives for their business to deduct the cost to produce the food and half the difference between the cost and full fair market value of the donated food.  
 
+Source: https://www.usda.gov/oce/foodwaste/resources/donations.htm, 
+
+#### Home Composting made easy...
+7.  Compost food scrap – Promote organic farming among consumers by providing a predictive analytics tool to study yield of home gardens fed with homemade compost in the available space. Also, assist in locating the nearest compost recycling sites
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
