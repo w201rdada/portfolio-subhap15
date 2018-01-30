@@ -22,23 +22,24 @@ While it is evident that food is being wasted in all stages of a Food Supply cyc
 
 This solution comprises of the following ecosystem: 
 IoT device - Integrating Raspberry PI or an Arduino with 3D enabled camera technology to perform Pantry 3D mapping. These devices are Wifi/bluetooth capability to enable communication with any Android or iOS device. 
-The App: To be developed for both iOS and Android platform, besides Desktop versions. The App will have two different interfaces - one for individual users and another for restaurants.
+
+The App: To be developed for both iOS and Android platform, besides Desktop versions. The App will have two different interfaces - one for individual users and another for restaurants.  
 
 Here is what the solution offers:
 
 #### Items expiring soon… 
-1.	 Capture Pantry images using a 3D camera and digitally map the entire pantry, including shelves, height of shelves, depth and width.
-2.	 On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / RFID labels) an item. 
+1.	 Pantry images will be captured using a 3D camera to digitally map the entire pantry, including shelves, height of shelves, depth and width.
+2.	 On the Pantry/Refrigerator door, an iOT device needs to be installed to scan, register and watermark (through simple color coding / RFID labels) an item. 
 3.	 Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: In parallel, we can use Machine learning technique to scan FDA and EEMA sites for safety and recall information to alert customer.
 4.	 Items need to be placed on the IoT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. *3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator.*
-5.	 When an item nears expiry, send an alert (push notification) to the consumer (on their registered devices/emails)
+5.	 When an item nears expiry, an alert (push notification) will be provided to the end user (on their registered devices/emails)
 
 
 #### Recipes you may want…
-6.	 Using Machine learning technique, provide personalized suggestion of recipes to consumers through the App. taking into account ingredients available and about to expire, your cuisine preferences, allergies etc. In case of restaurants, the App would inspire the Chef to develop Chef's specials for the day.
+6.	 Using Machine learning technique, the App will provide personalized suggestion of recipes to consumers taking into account ingredients available and about to expire, your cuisine preferences, allergies etc. In case of restaurants, the App would inspire the Chef to develop Chef's specials for the day.
 
 #### Items you may want to buy…
-7.	 Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
+7.	 This App will generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). This feature can be extended further and orders can be placed to deliver groceries. For restaurants especially, Smart Inventory tracking and reducing wastage helps minimize loses and increases profitability.
 
 #### Donations you could make…
 8.  The next step in reducing food wastage is to recover excess food from consumers and restaurants, facilitating donation to food banks. The roadblocks to making donation are transportation and liability concerns.
@@ -59,7 +60,8 @@ knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
  
 #### How is this idea different from the ones already available in the market?
-While most products in the market focus on Refrigerator, there is good amount of food being stored and wasted in our pantries. Often consumers end up buying more of the same without realizing the current inventory in their pantry. In few cases an item could be opened and stowed away for future use and forgotten forever. Pantry mapping technology will give consumers the flexibility in storing and keeping track of items purchased and used.  Currently, most of these technologies are only available for commercial purposes. 
+While most products in the market focus on Refrigerator, there is good amount of food being stored and wasted in our pantries. Often consumers end up buying more of the same without realizing the current inventory in their pantry. In few cases an item could be opened and stowed away for future use and forgotten forever. Pantry mapping technology will give consumers the flexibility in storing and keeping track of items purchased and used.  Currently, most of these technologies are only available for commercial purposes. Most of these technologies listed in the solution are currently available for commercial purposes (Smart Shelves) and few more currently in testing (3D Mapping of interior space). With awareness campaigns and funding through partnership with consumer appliance manufacturers, these technologies can be made available to consumers.  
+
 
 ## Difference.
 
