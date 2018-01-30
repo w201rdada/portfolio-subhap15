@@ -12,50 +12,54 @@ IoT, food wastage, donation, recipe
 
 One answer resonates with all the questions above, ‘eliminate food wastage’. While the problem may sound as truism and stating the obvious, I believe Data Science can be used as a medium to help not just answer these questions but provide adaptable solutions.
 
-According to Food and Agricultural Organization, over 1/3rd of food produced never get consumed every year and this wastage amounts to 1.3 billion tons of edible food that can feed about 1.6 billion people. This number attributes to 22% of the world’s population. 
+According to Food and Agricultural Organization, over 1/3rd of food produced never get consumed every year and this wastage amounts to 1.3 billion tons of edible food that can feed about 1.6 billion people. This number attributes to 22% of the world’s population. And, it’s not just the food that is being wasted. The resources such as water, energy used in the production of food are being wasted as well. [@saxenian1994]
 
-And,it’s not just the food that is being wasted. The resources such as water, energy used in the production of food are being wasted as well. [@saxenian1994]
-
-*** Add Images and charts showing Food Wastage **
+*** Add Images and charts **
 
 ## Solution
 
-While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers and Restaurants as the end-client in mind. 
+While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers and Restaurants as end-clients in mind. 
 
-#### Items expiring soon…
+This solution comprises of the following ecosystem: 
+IoT device - Integrating Raspberry PI or an Arduino with 3D enabled camera technology to perform Pantry 3D mapping. These devices are Wifi/bluetooth capability to enable communication with any Android or iOS device. 
+The App: To be developed for both iOS and Android platform, besides Desktop versions. The App will have two different interfaces - one for individual users and another for restaurants.
+
+Here is what the solution offers:
+
+#### Items expiring soon… 
 1.	 Capture Pantry images using a 3D camera and digitally map the entire pantry, including shelves, height of shelves, depth and width.
-2.	 On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / labels) an item.
+2.	 On the Pantry/Refrigerator door, install an iOT device to scan, register and watermark (through simple color coding / RFID labels) an item. 
 3.	 Data captured will include (Use by / Best By / Batch number etc / Weight / Nutrition information etc.) NOTE: In parallel, we can use Machine learning technique to scan FDA and EEMA sites for safety and recall information to alert customer.
 4.	 Items need to be placed on the IoT shelf liner which will have a pressure sensor to measure weight, any delta in the data will signify usage of the item. *3D map technology and location data will give consumer freedom to place item anywhere within Pantry or refrigerator.*
-5.	 When an item nears expiry, send an alert to the consumer (in their registered phone)
+5.	 When an item nears expiry, send an alert (push notification) to the consumer (on their registered devices/emails)
 
 
 #### Recipes you may want…
-4.	 Using Machine learning technique, provide personalized suggestion of recipes taking into account ingredients available and about to expire, your cuisine preferences, allergies etc.
+6.	 Using Machine learning technique, provide personalized suggestion of recipes to consumers through the App. taking into account ingredients available and about to expire, your cuisine preferences, allergies etc. In case of restaurants, the App would inspire the Chef to develop Chef's specials for the day.
 
 #### Items you may want to buy…
-5.	 Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
+7.	 Generate smart shopping list for the items you’re running out so you can re-stock your inventory (what you need to buy, when you need to buy). We can extend this feature further and place orders to deliver groceries
 
-#### Donations you may want to make…
-6.  The next step in reducing food wastage is to recover excess food from restaurants and facilitate donation to food banks.  This can be achieved by creating a neural network for a given zone containing - restaurants, food banks and businesses in the food delivery such as Uber Eats, Door Dash etc. We will maintain real-time data regarding where food is needed, quantity needed, which restaurants have excess, by when food need to be used, when delivery can be made at the earliest etc. This tool will take over the logistics aspect of the connecting Demand (organizations willing to accept donation) with Supply (Restaurants interested in donating) analyzing various parameters including but not limited to location, availability (food), max storage time (fresh/frozen), numbers of individuals needing donation, their allergy information, proximity of delivery service and selecting the closest location matching the parameters.
+#### Donations you could make…
+8.  The next step in reducing food wastage is to recover excess food from consumers and restaurants, facilitating donation to food banks. The roadblocks to making donation are transportation and liability concerns.
 
-This idea made me wonder, can restaurants get sued for the food and grocery products we donate with good intentions that turn out bad? Upon researching further, I have found few federal laws such as Bill Emerson Good Samaritan Food Donation Act that encourage food donation by providing a liability protection to donors as long as they do not act with negligence or intentional misconduct.  The donors also get tax incentives for their business to deduct the cost to produce the food and half the difference between the cost and full fair market value of the donated food.  
+Transportation challenges can be addressed by creating a neural network for a geographic location comprising of restaurants, food banks, non-profit food rescue teams and businesses in the food delivery such as Uber Eats and Door Dash. This app will maintain real-time data regarding where food is needed, quantity needed, which restaurants have excess, by when food need to be used, when delivery can be made at the earliest etc. This tool will take over the logistics aspect of the connecting Demand (organizations willing to accept donation) with Supply (Restaurants interested in donating) analyzing various parameters including but not limited to location, availability (food), max storage time (fresh/frozen), numbers of individuals needing donation, their allergy information, proximity of delivery service and selecting the closest location matching the parameters.
+
+Consumers will be able to communicate with food rescue teams using the app, in addition to accessing real-time information on locations accepting donations. This could be also be applied when they have left-overs after a party or an event.
+
+To alleviate the concern over liability arising out of food donation, the App will have more information to educate consumers, restaurants about federal laws such as Bill Emerson Good Samaritan Food Donation Act that provide liability protection to donors as long as they do not act with negligence or intentional misconduct. The App will also have a one click disclaimer for the organization receiving food donation protecting the donors interest. In addition, the App will also generate tax receipts for food donation so that donors can claim tax incentives for their business to deduct the cost to produce the food and half the difference between the cost and  fair market value of the donated food.  
 
 Source: https://www.usda.gov/oce/foodwaste/resources/donations.htm, 
 
 #### Home Composting made easy...
-7.  Compost food scrap – Promote organic farming among consumers by providing a predictive analytics tool to study yield of home gardens fed with homemade compost in the available space. Also, assist in locating the nearest compost recycling sites
+9.  Compost food scrap – Promote organic farming among consumers by providing a predictive analytics tool to study yield of home gardens fed with homemade compost in the available space. Also, assist in locating the nearest compost recycling sites
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
  
 #### How is this idea different from the ones already available in the market?
-While most products in the market focus on Refrigerator, there is good amount of food being stored and wasted in our pantries. More often consumers end up buying more of the same without realizing the current inventory in their pantry. In few cases an item could be opened and stowed away for future use. Pantry mapping technology will give consumers the flexibility in storing and keeping track of items purchased and used. 
-
-IoT device : Integrating Raspberry PI or an Arduino with 3D enabled camera technology, to perform Pantry 3D mapping. These devices are Wifi enabled  and will be able to communicate with any Android or iOS device.
-
-The App: To be developed for both iOS and Android platform, besides Desktop versions.   
+While most products in the market focus on Refrigerator, there is good amount of food being stored and wasted in our pantries. Often consumers end up buying more of the same without realizing the current inventory in their pantry. In few cases an item could be opened and stowed away for future use and forgotten forever. Pantry mapping technology will give consumers the flexibility in storing and keeping track of items purchased and used.  Currently, most of these technologies are only available for commercial purposes. 
 
 ## Difference.
 
