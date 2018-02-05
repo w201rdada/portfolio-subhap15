@@ -13,6 +13,7 @@ IoT, Smart Inventory, food wastage, recipe ideas, grocery list, donation, compos
 One answer resonates with all the questions above, ‘eliminate food wastage’. While the problem may sound as truism and stating the obvious, I believe Data Science can be used as a medium to help not just answer these questions but provide adaptable solutions.
 
 According to Food and Agricultural Organization, over 1/3rd of food produced never get consumed every year and this wastage amounts to 1.3 billion tons of edible food that can feed about 1.6 billion people. This number attributes to 22% of the world’s population. And, it’s not just the food that is being wasted. The resources such as water, energy used in the production of food are being wasted as well. 
+
 [@candy_reducing_2017]
 
 ![Fig-1: What gets tossed more often?](http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/58/79/58798190789eb46270800dff67843819.png?itok=4ud_Ytlm)
