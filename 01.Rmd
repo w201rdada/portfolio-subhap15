@@ -18,6 +18,8 @@ According to Food and Agricultural Organization, over 1/3rd of food produced nev
 
 ![Fig-1: What gets tossed more often?](http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/58/79/58798190789eb46270800dff67843819.png?itok=4ud_Ytlm)
 
+[@helmer_understanding_nodate]
+
 ## Solution
 
 While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers as end-clients in mind (could be extended to Restaurants in future). 
@@ -57,7 +59,7 @@ Here is what the solution offers:
 #### Donations you could make…
 ![Fig-3: Food Donation](https://github.com/w201rdada/portfolio-subhap15/blob/master/img/Food%20Donation.PNG?raw=true)
 
-[@helmer_understanding_nodate]
+[@eat_reducing_nodate]
 
 8.  The next step in reducing food wastage is to recover excess food from consumers facilitating donation to food banks. The roadblocks to making donation are not knowing the location to drop-off food, transportation and liability concerns. This App will provide real-time data regarding where food is needed, quantity needed, when delivery can be made at the earliest etc. This tool will take over the logistics aspect of the connecting Demand (organizations willing to accept donation) with Supply (Consumers interested in donating) analyzing various parameters including but not limited to location (eg. within 10 miles), availability (food), max storage time (fresh/frozen), numbers of individuals needing donation, their allergy information, availability of delivery service (such as Uber Eats, Door Dash) and selecting the closest location matching the parameters. Consumers will be also able to communicate with non-profit food rescue teams(such as Second Servings Houston) using the app, in addition to accessing real-time information on locations accepting donations. To alleviate the concern over liability arising out of food donation, the App will have more information to educate consumers about federal laws such as Bill Emerson Good Samaritan Food Donation Act that provide liability protection to donors as long as they do not act with negligence or intentional misconduct. The App will also have a one click disclaimer for the organization receiving food donation protecting the donors interest. When we extend this product to Restaurants in future, the App can be used generate tax receipts for food donation so that donors can claim tax incentives for their business to deduct the cost to produce the food and half the difference between the cost and  fair market value of the donated food.  
 
