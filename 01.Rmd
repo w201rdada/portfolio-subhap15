@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-IoT, food wastage, donation, recipe
+IoT, Smart Inventory, food wastage, recipe ideas, grocery list, donation, composting
 
 ## Problem
 
@@ -63,7 +63,7 @@ To alleviate the concern over liability arising out of food donation, the App wi
 #### How is this idea different from the ones already available in the market?
 While most products in the market focus on Refrigerator, there is good amount of food being stored and wasted in our pantries. Often consumers end up buying more of the same without realizing the current inventory in their pantry. In few cases an item could be opened and stowed away for future use and forgotten forever. Pantry mapping technology will give consumers the flexibility in storing and keeping track of items purchased and used.  Currently, most of these technologies are only available for commercial purposes. Most of these technologies listed in the solution are currently available for commercial purposes (Smart Shelves) and few more currently in testing (3D Mapping of interior space). 
 
-## Challenges and Next Steps...
+## Challenges and Next Steps
 While this technology is currently available for commercial purposes, a lot of work needs to be done to scale it down for consumer use. Even though the RFID labels will be designed to emit low-level frequency signal, its impact on food safety is yet to be studied.
 To motivate people, need to build targeted awareness (online) campaigns & focus groups, partner with grocery chains to integrate their digital coupons with native app. With awareness campaigns and funding through partnership with consumer appliance manufacturers, these technologies can be made available to consumers.  
 
