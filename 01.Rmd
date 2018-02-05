@@ -14,13 +14,13 @@ One answer resonates with all the questions above, ‘eliminate food wastage’.
 
 According to Food and Agricultural Organization, over 1/3rd of food produced never get consumed every year and this wastage amounts to 1.3 billion tons of edible food that can feed about 1.6 billion people. This number attributes to 22% of the world’s population. And, it’s not just the food that is being wasted. The resources such as water, energy used in the production of food are being wasted as well. [@saxenian1994]
 
-![Fig-1: What gets tossed more often?]http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/58/79/58798190789eb46270800dff67843819.png?itok=4ud_Ytlm
+![Fig-1: What gets tossed more often?](http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/58/79/58798190789eb46270800dff67843819.png?itok=4ud_Ytlm)
 
 ## Solution
 
 While it is evident that food is being wasted in all stages of a Food Supply cycle – Production, Distribution, Retail and Consumer usage, this idea is written with Consumers as end-clients in mind (could be extended to Restaurants in future). 
 
-![Fig-2: Who is wasting the most food?]http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/e5/f8/e5f84aca1a02403ed72403c4d6adbdbf.png?itok=XrAaR4sB
+![Fig-2: Who is wasting the most food?](http://cdn-image.foodandwine.com/sites/default/files/styles/syndicated_inline/hash/inline_image/e5/f8/e5f84aca1a02403ed72403c4d6adbdbf.png?itok=XrAaR4sB)
 
 My solution applies concepts of Data Science to create an inventory solution which alerts customers of:
 What is available in their refrigerator and Pantry?
