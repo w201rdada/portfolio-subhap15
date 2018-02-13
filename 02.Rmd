@@ -14,16 +14,11 @@ With the help of Advanced Data Models, my solution will not only predict the out
 
 Various parameters will be taken into consideration to understand the patient and their partner’s medical history, family history and fed into the software.
 
-1.       An algorithm will then check to see if it has all the values required to feed the data to the next step. For any missing values, a custom test order will be generated to obtain further information
+1. An algorithm will then check to see if it has all the values required to feed the data to the next step. For any missing values, a custom test order will be generated to obtain further information
+2. Once all values have been fed into the software, it will compare this data against patients with similar ethnicity, age group and their outcome to provide a preliminary report on the success rates with past data. A neural network of fertility centers across the country will help increase the data sample size
+3.The system will then look for areas that may need preliminary treatment, this could range from simple changes in lifestyle such as diets, exercise and supplements to more complex treatments such as Hormone therapies which could increase the chances of a successful pregnancy. System will provide a custom test order to see if there are changes in values based on which patients will be cleared for next level of treatment
+4.Most fertility clinics have the patients start with an IUI and then proceed to an IVF. While IUI is far cheaper, IVF is quite expensive. Insurance companies hardly cover such fertility treatments but those which do cover, expect the patients complete few cycles of IUI before authorizing IVF. For most patients their biological clock is ticking and they may not be a suitable candidate for IUI. Data Analysis can help provide data to insurance companies with complete profile on what the success rates are and why there should be an exception made in the patient’s case. The same Data can also help selfpay patients to choose or skip few preliminary treatments before signing up for IVF. 
 
-2.       Once all values have been fed into the software, it will compare this data against patients with similar ethnicity, age group and their outcome to provide a preliminary report on the success rates with past data. A neural network of fertility centers across the country will help increase the data sample size
-
-3.       The system will then look for areas that may need preliminary treatment, this could range from simple changes in lifestyle such as diets, exercise and supplements to more complex treatments such as Hormone therapies which could increase the chances of a successful pregnancy. System will provide a custom test order to see if there are changes in values based on which patients will be cleared for next level of treatment
-
-4.       Most fertility clinics have the patients start with an IUI and then proceed to an IVF. While IUI is far cheaper, IVF is quite expensive. Insurance companies hardly cover such fertility treatments but those which do cover, expect the patients complete few cycles of IUI before authorizing IVF. For most patients their biological clock is ticking and they may not be a suitable candidate for IUI. Data Analysis can help provide data to insurance companies with complete profile on what the success rates are and why there should be an exception made in the patient’s case. The same Data can also help selfpay patients to choose or skip few preliminary treatments before signing up for IVF. 
-
-
- 
 ## An end.
 Software continues to collect data from patients who are undergoing treatments to keep perfecting its model for suggestive / customized treatments. Over a period of time, the software would have matured to provide closest to accurate results in outcome of treatment, retention of pregnancy and a healthy baby.
 
