@@ -14,6 +14,8 @@ A Solution which will be a self-help tool for patients and treatment tool for pr
 a.	Explore all preliminary tests to be completed prior to starting fertility treatments
 b.	Based on predictive models created from test results, provide comprehensible suggestions on the best course of treatments and their success rate
 
+![Fig-1: Fertility Treatment Options](/img/Treatment Options.PNG)
+
 ## How is Bloom different from others?
 
 There are few software in  the market that currently offer simple dashboards that focus more on prediction of treatment outcome. While predicting the outcome is a great concept, it is still objective and hardly accounts for  emotional impact of negative results on the patients. It is easier for a patient to be convinced of the results (positive or negative) once they have tried all possible options and move on than go through the financial and emotional drain. 
