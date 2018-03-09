@@ -4,19 +4,28 @@
 
 Bio-informatics, Genomics, Predictive analytics, Fertility Treatment
 
-## Problem  
+## Trouble starting a family? You're not alone...
 
-Problem
+To put the fertility process in perspective, two letters is all it takes to create life, ‘x’ and ‘y’... but wish life was that simple. Infertility is a global issue, even advancements in the field of medicine and science has not made a significant change in the last 10 years. CDC reports over 7.3 million women in US utilized infertility services between 2011 – 2015. (https://www.cdc.gov/nchs/fastats/infertility.htm ).The US Fertility Treatment market is expected to be valued at USD 6 Billion and global market at USD 20 Billion by the end of 2020. US holds 1/3rd of the Global Market Share in the Fertility Treatment sector and may very well be tagged as an industry. Growing cost of fertility treatments not just take a toll on the patients financially, but also on their emotional well-being owing to the uncertainty of treatment outcome. Centers offering fertility treatments have little time, or the right resources to spend more time on diagnosis and preliminary treatment. They are not equipped well to give information on what else patients could do before spending on treatments – Supplement or alternate therapies such as Acupuncture, meditation, yoga and simple changes in lifestyle have shown tremendous results for few couples. 
 
-To put the fertility process in perspective, two letters is all it takes to create life, ‘x’ and ‘y’... but wish life was that simple. Infertility is a global issue, even advancements in the field of medicine and science has not made a significant change in the last 10 years. Female infertility rate in the US was last recorded at 12.1% out of which 99% of women have undergone infertility treatments (https://www.cdc.gov/nchs/fastats/infertility.htm ). The US Fertility Treatment market is expected to be valued at USD 6 Billion and global market at USD 20 Billion by the end of 2020. US holds 1/3rd of the Global Market Share in the Fertility Treatment sector and may very well be tagged as an industry. Growing cost of fertility treatments not just take a toll on the patients financially, but also on their emotional well-being owing to the uncertainty of treatment outcome. Centers offering fertility treatments give very little information on what else patients could do before spending on treatments.
+## Why Bloom?
 
-My goal is to present a solution which will be a self-help tool for patients and treatment tool for providers which would:
+A Solution which will be a self-help tool for patients and treatment tool for providers which would:
 a.	Explore all preliminary tests to be completed prior to starting fertility treatments
 b.	Based on predictive models created from test results, provide comprehensible suggestions on the best course of treatments and their success rate
 
-## Solution
+## How is Bloom different from others?
 
-There are few products in the market currently however, they only focus on predicting the outcome of fertility treatment, which is objective and hardly understands the impact of such predictions on the patients should the predictions not be in favor. With advancements in science and the field of fertility, there are various tests and preliminary treatments that can be performed before a patient chooses to go through fertility treatment. It is easier for a patient to be convinced of the results once they have tried all possible options and move on than go through the financial and emotional drain.
+There are few software in  the market that currently offer simple dashboards that focus more on prediction of treatment outcome. While predicting the outcome is a great concept, it is still objective and hardly accounts for  emotional impact of negative results on the patients. It is easier for a patient to be convinced of the results (positive or negative) once they have tried all possible options and move on than go through the financial and emotional drain. 
+
+With advancements in science and the field of fertility, there are various tests and preliminary treatments that can be performed before a patient chooses to go through fertility treatment. Bloom is not just an App but a companion all through their journey in the treatment process. It will be designed to provide the patient a holistic view of:
+•	Where they are currently?
+•	What tests needs to be done prior to starting the treatment process?
+•	What preliminary and supplemental treatment they could take before starting the treatment? 
+•	What changes do they need to adopt in their lifestyle?
+•	How the preliminary treatment or changes in lifestyle would benefit them? By what % does it increase the success ration of the treatment process?
+•	Access to peer support groups going through similar treatment process
+•	Access to medical experts who will be available on-call (premium service) 
 
 The goal is to design an App which will collect extensive data from users, not limited to : Genetics, Age, Race, Ethnic origin, demographic information (where they were born, where they grew up, where they live now: this is a key piece of information which will help determine external factors such as climate, environment they may have been exposed to), occupation (to determine physical and emotional stress levels). Besides the the extensive Blood tests which tests a patient more for hormone imbalances, my discovery process will include few simple tests which is often not tested for. Once all Data has been compiled, the system will start an auto-elimination process based on Machine Language Technique to compare various reasons that has caused infertility in the male or female.
 
