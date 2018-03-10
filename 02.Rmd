@@ -35,16 +35,16 @@ With advancements in science and the field of fertility, there are various tests
 
 •	Access to medical experts who will be available on-call (premium service) 
 
-Data Collection:
+#### Data Collection:
 The goal is to design an App which will collect extensive data from users, not limited to : Genetics, Age, Race, Ethnic origin, demographic information (where they were born, where they grew up, where they live now: this is a key piece of information which will help determine external factors such as climate, environment they may have been exposed to), occupation (which could present as one of the factors for physical and emotional stress). Besides the extensive Blood tests which tests a patient more for hormone imbalances, the discovery process will include genetic blood tests that may reveal Mutation of Genes (eg. MTHFR). Various parameters will be taken into consideration to understand the patient and their partner’s medical history, family history and fed into the software. An algorithm will then check to see if it has all the values required to feed the data to the next step. For any missing values, a custom test order will be generated to obtain further information. 
 
-Discovery:
+#### Discovery:
 Once all values have been fed into the app, it will compare this data against patients with similar ethnicity, age group and their outcome to provide a preliminary report on the success rates with past data. A neural network of fertility centers across the country will help increase the data sample size. The system will start an auto-elimination process based on Machine Language Technique to compare various reasons that has caused infertility in the male or female.
 
-Prediction:
+#### Prediction:
 The program will use data captured from the patient and compare it with available data from the Neural Network of World Wide Fertility Centers (NNWWFC) to build predictive models for outcome of various fertility treatments. AI bot will continue to analyze and perfect the predictive model as it continues to collect data (consent will be acquired) from Patients. 
 
-Prescription:
+#### Prescription:
 Based on all computations, patients will be presented with a holistic picture on the possible conditions that may have caused infertility, procedure options and the success rate with each, a list of preliminary treatment options, alternative therapies and life style changes before undertaking the actual procedure. By this time the predictive model would have given the best possible options for them including data to support success rates or in some cases prepare them for the outcome which may not be favorable. 
 
 While the field of medicine captures data pertaining to science behind the reasons of infertility in men or women, my app will have the ability to build models which includes non-medical data to identify few causes for infertility.
