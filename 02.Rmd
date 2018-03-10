@@ -22,11 +22,17 @@ Currently there are few software in  the market that offer simple dashboards tha
 
 With advancements in science and the field of fertility, there are various tests and preliminary treatments that can be performed before a patient chooses to go through fertility treatment. Bloom is not just an App but also a companion all through their journey in the treatment process. It will be designed to provide patients with a holistic view of:
 •	Where they are currently?
+
 •	What tests needs to be done prior to starting the treatment process?
+
 •	What preliminary and supplemental treatment they could take before starting the treatment? 
+
 •	What changes do they need to adopt in their lifestyle?
+
 •	How the preliminary treatment or changes in lifestyle would benefit them? By what % does it increase the success ratio of the treatment process?
+
 •	Access to peer support groups going through similar treatment process
+
 •	Access to medical experts who will be available on-call (premium service) 
 
 Data Collection:
