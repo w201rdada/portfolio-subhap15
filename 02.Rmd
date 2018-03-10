@@ -16,7 +16,7 @@ a.	Explore all preliminary tests to be completed prior to starting fertility tre
 
 b.	Based on predictive models created from test results, provide comprehensible suggestions on the best course of treatments and their success rate
 
-![Fig-1: Fertility Treatment Options]('img/Treatment Options.PNG')
+![Fig-1: Fertility Treatment Options]('/img/Treatment Options.PNG')
 
 [@noauthor_best_nodate]
 
