@@ -33,7 +33,7 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Waste Not, Want Not {-}
 
-Often underappreciated for its value, food as it is one of the most wasted commodities in America. Thanks to Web 2.0 there is growing awareness of food wastage in US, and communities are coming together in rescuing food that otherwise would have ended up in landfills. Change always starts with us, and this project focuses on equipping every household with next generation technology combining Data Science concepts and IoT. Together this solution is expected to eliminate upto 70% of food wastage that happens in our Pantries and Refrigerators. Ever heard of GPS for a pantry? Read more to find out
+Often underappreciated for its value, food is one of the most wasted commodities in America. Thanks to Web 2.0 there is growing awareness of food wastage in US, and communities are coming together in rescuing food that otherwise would end up in landfills. Change always starts with us, and this project focuses on equipping every household with next generation technology combining Data Science concepts and IoT. Together this solution is expected to eliminate upto 70% of food wastage that happens in our Pantries and Refrigerators. Ever heard of GPS for a pantry? Read more to find out
 
   
 ### Bloom {-}
