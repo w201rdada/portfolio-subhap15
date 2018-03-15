@@ -42,6 +42,6 @@ Infertility is a global issue, in both women and men. Fertility Treatment sector
 
 ## About the author {-}
 
-Subha Paravastu is a Product Manager by day, super mom by evening and a Data Science student by night. As an individual, she has always been fascinatedby Data and its true offerings. She strongly believes data elicits stories, which in most cases are left untapped. Having worked in the healthcare domain for most part of her professional career, she sees great potential for data to be a key player in the domain. She feels that a formal education in Data Science is the best way to explore the  nuances of Data.  
+Subha Paravastu is a Product Manager by day, super mom by evening and a Data Science student by night. As an individual, she has always been fascinated by Data and its true offerings. She strongly believes data elicits stories, which in most cases are left untapped. Having worked in the healthcare domain for most part of her professional career, she sees great potential for data to be a key player in the domain. She feels that a formal education in Data Science is the best way to explore the  nuances of Data.  
 
 *Updated: `r Sys.Date()`*
